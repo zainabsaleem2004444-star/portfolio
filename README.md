@@ -30,5 +30,5 @@ This project showcases my journey as a **Web Developer** and **React Native enth
 
  This portfolio is a living project — evolving as I learn, build, and explore new technologies.
 
-![preview img](/preview.png)
+![preview img](/portfolio/preview.png)
 
